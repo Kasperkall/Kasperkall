@@ -2,7 +2,7 @@
 
 My name is Kasper Kallseter, I'm in the final year of a master's degree in Engineering and ICT at NTNU in Trondheim. 
 
-Further down on my profile you can find some of the projects I have worked on!
+Further down on my profile you can find some of the latest projects I have worked on!
 
 :telescope: I'm currently working on how to use machine learning for parameter identification in dynamic systems.
 
