@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! :wave:
 
-My name is Kasper Kallseter, I'm in the final year of a master's degree in Engineering and ICT at NTNU in Trondheim. 
+My name is Kasper Kallseter, I am a civil engineer with a master's degree in Engineering and ICT at NTNU in Trondheim. 
 
 Further down on my profile you can find some of the latest projects I have worked on!
 
